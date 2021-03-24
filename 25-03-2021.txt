@@ -1,0 +1,37 @@
+Fast.ai Learning Documentation #2
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/?lesson=2
+
+# Features of Fastai
+
+- fastai comes with a download_url function that helps download images right off the internet.
+- fastai defaults the valid_percent feature to 0.2, i.e., it automatically creates a validation set for you using 20% of the data.
+- The key focus of the fastai library is "Transfer Learning". Transfer learning uses less data and gives high accuracies.
+- ULMFit is an approach by fastai developers to perform protein analysis using NLP. this is done by considering the different types of proteins as different words.
+
+# Learning Updates
+
+- The 2 main types of Machine Learning -  classification and regression.
+- Classification - predicting a category.
+- Regression - predicting a number or pattern.
+- Overfitting - When you train the model for too long using less data, the accuracy starts to get worse.
+- Epoch - A cycle in which we iterate through every single data in the dataset.
+- Fine Tuning - - FIne Tuning is a transfer Learning technique where the weights of a pretrained model are updated by training for additional epochs using a different task than that used for pretraining.
+- Inference - Using the trained model in required applications.
+- Resnet - An architecture commonly used for computer vision problems. The number 34 refers to the number of layers and may vary.
+- Modelzoo - A good recommendation to search for pretrained models.
+- Learnt to use the datablock api and DataLoaders.
+- Learnt to export and save the trained model to a pickle file.
+- Error rate is a metric that tests the model with the val data.
+- Loss function is used by the computer to make the model better
+
+# Looking forward to Learning more!
+
+
+
+	
