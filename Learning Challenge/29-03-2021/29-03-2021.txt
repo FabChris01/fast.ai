@@ -1,0 +1,20 @@
+Fast.ai Learning Challenge Day 1
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/?lesson=1
+
+# What is Fastai?
+
+- Fastai is a deep learning library that contains high level components that provide easy implementation for complicated tasks.
+- Fastai was developed by Jeremy Howard and Sylvain Gugger.
+- fastai can be easily installed on any machine using the command: conda install -c fastai -c pytorch -c anaconda fastai gh anaconda. Using conda is highly recommended.
+- Fastai is best implemented in REPL environments.
+- REPL stands for Read-Evaluate-Print-Loop environments. Eg: Jupyter Notebook, Google Colab.
+- Fastai's entire documentation is written in jupyter notebooks.
+
+
+# Looking forward to Learning more!
