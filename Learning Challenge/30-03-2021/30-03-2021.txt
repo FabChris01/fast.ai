@@ -1,0 +1,21 @@
+Fast.ai Learning Challenge Day 2
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/?lesson=1
+
+# Learning Updates
+
+- Fastai does not show a traditional approach to python programming 
+- Instead, it adopts certain styles and practices from other languages too.
+- Fastai hosts a plethora of pre-defined datasets for sommon problems.
+- These preprocessed and readily available datasets can be downloaded and used with simple commands.
+- In normal practice, python developers avoid using * to import everything from a library since it imports unwanted sub-libraries and other packages that may result in conflicts and bugs. 
+- But fastai solves this problem by importing only the necessary content when * is used.
+- Vision, text, tabular and collaborative filtering are 4 main predefined applications in fast.ai.
+
+
+# Looking forward to Learning more!

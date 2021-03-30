@@ -7,7 +7,7 @@ Fast.ai Learning Challenge Day 1
 - https://docs.fast.ai
 - https://course.fast.ai/videos/?lesson=1
 
-# What is Fastai?
+# Learning Updates
 
 - Fastai is a deep learning library that contains high level components that provide easy implementation for complicated tasks.
 - Fastai was developed by Jeremy Howard and Sylvain Gugger.
