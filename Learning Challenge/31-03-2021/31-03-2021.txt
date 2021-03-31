@@ -1,0 +1,20 @@
+Fast.ai Learning Challenge Day 3
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/?lesson=1
+
+# Learning Updates
+
+- Used fast.ai's vision library to train a simple model using a predefined dataset and classify images as containing cats or dogs.
+- Learnt about Stochastic Gradient Descent (SDC) and the inputs-weights-model-result-performance-update structure of Machine Learning.
+- Arthur Samuel devised the idea of using the loss function to improve the neural networks.
+- In the fastai cats/dogs dataset, any image, with the first letter of its label in upper case, is an image of a cat. This helps in easier classification for training.
+- Learnt about overfitting and proper fitting. One way to see if its not an over fit is by testing the model with data that was not used to train it.
+- fastai has multiple functionalities and datasets that can also be used for image segmentation, imdb score prediction, salary prediction, etc.
+
+
+# Looking forward to Learning more!
