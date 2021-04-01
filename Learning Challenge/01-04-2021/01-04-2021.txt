@@ -1,0 +1,21 @@
+Fast.ai Learning Challenge Day 4
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/?lesson=2
+
+# Learning Updates
+
+- fastai comes with a built-in download_url function 
+- This function helps download images right off the internet in your code.
+- fastai defaults the valid_percent feature to 0.2.
+- It automatically creates a validation set for you using 20% of the data. 
+- The key focus of the fastai library is "Transfer Learning". 
+- Transfer learning uses less data and gives high accuracies.
+- ULMFit is an approach by fastai developers to perform protein analysis using NLP. 
+- This is done by considering the different types of proteins as different words.
+
+# Looking forward to Learning more!
