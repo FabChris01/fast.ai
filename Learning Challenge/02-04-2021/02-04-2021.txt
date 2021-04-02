@@ -1,0 +1,23 @@
+Fast.ai Learning Challenge Day 5
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/?lesson=2
+
+# Learning Updates
+
+- The 2 main types of Machine Learning -  classification and regression.
+- Classification - predicting a category.
+- Regression - predicting a number or pattern.
+- Overfitting - When you train the model for too long using less data, the accuracy starts to get worse.
+- Epoch - A cycle in which we iterate through every single data in the dataset.
+- Fine Tuning - - FIne Tuning is a transfer Learning technique where the weights of a pretrained model are updated by training for additional epochs using a different task than that used for pretraining.
+- Inference - Using the trained model in required applications.
+- Resnet - An architecture commonly used for computer vision problems. The number 34 refers to the number of layers and may vary.
+- Modelzoo - A good recommendation to search for pretrained models.
+
+
+# Looking forward to Learning more!
