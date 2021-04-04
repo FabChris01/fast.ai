@@ -15,7 +15,7 @@ Fast.ai Learning Challenge Day 7
 - resizing to a square is the most efficient method
 - resize stretches or squishes while .pad adds black padding so the original image doesnt get disfigured
 - Randomresizedcrop is the best resize method since it produced a set of images that are parts of the original image. this prevents overfitting while training the model.
-- batch transform happens one at a time whereas item transform applies the changes to a batch
+- item transform happens one at a time whereas batch transform applies the changes to a batch
 - aug_transforms changes the properties of an image like contrast, color, etc
 - ImageClassifierCleaner helps you with data cleaning
 
