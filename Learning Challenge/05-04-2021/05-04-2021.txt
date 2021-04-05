@@ -1,0 +1,21 @@
+Fast.ai Learning Challenge Day 8
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/?lesson=3
+
+# Learning Updates
+- one of the salient features of fastai is that it had built in UI widgets.
+- This helps developers who dont know web development deploy their model in jupyter notebook by creating their own widgets and ui with just a few lines of code. 
+- This feature was written with the help of voila
+- Binder can be used to host your fastbook application on a virtual server.
+- It provides you with a url that can be shared with and accessed by anyone.
+- This uses the CPU, and not the GPU
+- But if you're going to be hosting models that process video, etc it is better to run it on a gpu
+- Out of domain data is a situation where the data that want to do inference on is somehow different than the data used in training.
+
+
+# Looking forward to Learning more!
