@@ -1,0 +1,23 @@
+Fast.ai Learning Challenge Day 9
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/?lesson=3
+
+# Learning Updates
+- Learnt about Recognizing hand written digits using the MNIST dataset 
+- It was used to provide one of the first computer systems that could practically recognize hand written digits
+- This system was named LeNet-5 and was used to process 10% of the checks in the US
+- Worked with a simpler version of the MNIST dataset that contains only 3s and 7s
+- untar_data is a function in fastai 
+- This function, takes a url, checks whether you've already downloaded and if you've not already downloaded it, it downloads it for you. 
+- It also checks if you've already uncompressed it, and if you haven't already, it uncompressed it for you and then finally returns its path.
+- tensor is the pytorch version of a numpy array
+- The pytorch tensor is used widely and is better than a numpy array because it can also be computed on a GPU.
+- show_image is a fastai function that displays a tensor
+
+
+# Looking forward to Learning more!
