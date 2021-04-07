@@ -1,0 +1,23 @@
+Fast.ai Learning Challenge Day 10
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/?lesson=3
+
+# Learning Updates
+- Learnt about slicing tensors and how to manipulate them
+- Broadcasting is a technique that helps you use python as a very very high level programming language
+- the fundamental principle of broadcasting is elemen-wise operations
+- Also learnt about the basic steps, for the process of training a model to differentiate between 3s and 7s
+    = Initialize the weights,
+    = For each image, use the weights to predict whether it appears to be a three or a seven.
+    = based on these predictions, calculate how good the model is (its loss)
+    = Calculate the gradient, which measures for each weight, how changing that weight would change the loss
+    = Change the weights based on the calculation
+    = and go back and repeat the process until the training is over.
+
+
+# Looking forward to Learning more!
