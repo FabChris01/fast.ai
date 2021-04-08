@@ -1,0 +1,20 @@
+Fast.ai Learning Challenge Day 12
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/?lesson=4
+
+# Learning Updates
+- The loss will be smaller when the predictions returned are closer to the targets. so when the loss gets smaller, the accuracies get better
+- A sigmoid function is something that squashes every number that is passed to it into a value between 0 and 1
+- An iterator in python is used to return all the items of a list
+- .data is a feature in pytorch that can be used to tell it not to update the gradient
+- The difference between gradient descent and stochastic gradient descent is that, the gradient descent calculates the gradient and trains the model on the whole dataset while the stochastic gradient descent (SDC) lets you calculate the gradient and train it using minibatches that are small parts of the dataset
+- In actual practice, the Stochastic gradient descent SDC is preferred to a normal gradient descent
+- Also learnt about Rectified linear Unit ReLU and Trained a SDC model to 0.96% accuracy
+
+
+# Looking forward to Learning more!

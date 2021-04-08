@@ -1,0 +1,19 @@
+Fast.ai Learning Challenge Day 11
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/?lesson=4
+
+# Learning Updates
+- fastai has a built in function called plot_function that makes it easier for plotting graphs instantaneously
+- Picking a learning rate is a vital step of training a model
+- A learning rate should be picked such that, it reduces the loss effectively and doesn't take a long time doing so.
+- Arthur samuel defined in the following terms: 
+    = Suppose we arrange for some automatic means of testing the effectiveness of any current weight assignment in terms of actual performance and provide a mechanism for altering the weight assignment so as to maximize the performance. 
+    = We need not go into the details of such a procedure to see that it could be made entirely automatic and to see that a machine so programmed would learn from its experience.
+
+
+# Looking forward to Learning more!
