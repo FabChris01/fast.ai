@@ -1,0 +1,19 @@
+Fast.ai Learning Challenge Day 13
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/?lesson=4
+
+# Learning Updates
+- Learnt about the uses of arrays and tensors in Training a model 
+- Also learnt about view and the @ operator.
+- Looked into calculation of gradients used in a pytorch training loop
+- Created a deep neural network from scratch by adding non-linearities with ReLU
+- Also learnt about the softmax activation function. 
+- The softmax activation function is used in a lot of non-binary classification models.
+
+
+# Looking forward to Learning more!
