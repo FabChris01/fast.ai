@@ -1,0 +1,20 @@
+Fast.ai Learning Challenge Day 17
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- Algorithms are used differently than human decision makers:
+1) People are more likely to assume algorithms are objectibe or error-free (even if they're given the option of a human override)
+2) Algorithms are more likely to be implemented with no appeals process in place
+3) Algorithms are often used at scale
+4) Algorithmic systems are cheap
+- According to Cathy O'Neil, "The privileges are processed by people; the poor are processed by algorithms.
+- Learnt about Disinformation which includes orchestrated campaigns of manipulation.
+
+
+# Looking forward to Learning more!

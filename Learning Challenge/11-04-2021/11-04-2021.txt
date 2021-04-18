@@ -1,0 +1,21 @@
+Fast.ai Learning Challenge Day 14
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- Learnt about regular expressions in python
+- re is a python module and using the findall function returns all the instances of that pattern
+- RegexLabeller is a handy fastai class that labels things with a regular expression
+- Softmax functions are the advanced versions of SIgmoid functions when you want to use multiple categories instead of just 2
+- softmax always gives you numbers between 0 and 1 anf they always add up  to 1
+- The logarithm function is used to covert the values in range 0 to 1 to range - infinity to + infinity to eliminate accuracy loss.
+- If the value's going towards 0, it becomes infinity and if its going towards 1, it becomes 0
+- pytorch has a predefined function called log_softmax that finds the log and gives it to the nll_loss function
+
+
+# Looking forward to Learning more!

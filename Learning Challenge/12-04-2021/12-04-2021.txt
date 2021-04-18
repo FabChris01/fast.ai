@@ -1,0 +1,19 @@
+Fast.ai Learning Challenge Day 15
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- Learnt about ethics in deep learning and the legal system governing it.
+- Ethics is not the same as religion, law, a fixed set of rules or social norms
+- Ethics is :
+1) well-founded standards of right and wrong that prescribe what humans ought to do
+2) the study and development of one's ethical standards
+- The common issue with ethics is that the systems are implemented with no way to identify and address mistakes
+
+
+# Looking forward to Learning more!

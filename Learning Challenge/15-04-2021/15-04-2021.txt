@@ -1,0 +1,23 @@
+Fast.ai Learning Challenge Day 18
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- Recent developments in artificia intelligence point to an age where forgery of documents, pictures, audio recordings, videos, and online identities will occur with unprecedented ease.
+- AI is poised to make high-fidelity forgery inexpensive and automated
+- This leads to potentially disastrous consequences for democracy, security and society
+- Learnt about the five ethical lenses:
+1) The rights approach
+2) The justice approach
+3) The utilitarian approach
+4) The common good approach
+5) THe virtue approach
+- Avanced technology isn't a substitute for good policy
+
+
+# Looking forward to Learning more!

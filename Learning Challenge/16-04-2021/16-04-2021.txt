@@ -1,0 +1,20 @@
+Fast.ai Learning Challenge Day 19
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- Learnt about the cross entropy loss function and its benefits
+1) It works even when our dependent variable has more than 2 categories
+2) It results in faster and more reliable training
+- Determining the learning rate for a model is an important step in training
+- A high learning rate results in More losses and vice versa.
+- Leslie smith came up with the learning rate finder
+- The Learning Rate finder uses a trail and error method starting ftom a low rate and moving up gradually to find the optimal rate.
+
+
+# Looking forward to Learning more!

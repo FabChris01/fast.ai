@@ -1,0 +1,19 @@
+Fast.ai Learning Challenge Day 22
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- Learnt about Collaborative Filtering. 
+- Collaborative filtering is the content classification and recommendation technique used by services such as netflix to recommend movies/shows to its users
+- It does this by finding people who have watched the same content as you have and then collecting data of the other shwos that they watched and you haven't and recommends them to you.
+- Pandas has a built feature like sql that lets you merge columns of different tables together
+- An embedding is a layer that has the computational speed of an array lookup and the same gradients as matric multiplication.
+- In python, for special notations such as __init__, the underscores are called dunders and hence, in this case, a dunder init.
+
+
+# Looking forward to Learning more!

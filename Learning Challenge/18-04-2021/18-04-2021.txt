@@ -1,0 +1,21 @@
+Fast.ai Learning Challenge Day 21
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- The error rate is calculated as 1-accuracy
+- Accuracy only works for single label datasets like MNIST and pets datasets.
+-  It takes in the final layer of activations as input and applies the argmax function.
+- The argmax function returns the index of the largest number in the activations
+- It then checks this value with the target and returns the accuracy
+- Hence, argmax only makes sense when there's a single maximum thing.
+- So, in multilabel classifications, we compare each activation to a predefined threshold
+- We did this using a built in python function called partial
+
+
+# Looking forward to Learning more!

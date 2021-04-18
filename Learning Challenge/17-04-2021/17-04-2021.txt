@@ -1,0 +1,19 @@
+Fast.ai Learning Challenge Day 20
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- Multi-label classification refers to the problem of identifying the categories of objects in an image, 
+- In such cases, you may not have exactly one type of object in the image.
+- This is useful for object detection in images that have multiple classes of objects to be detected.
+- Learnt how to handle Datasets and tabular data using Pandas and dataframes.
+- A dataframe uses the iloc or the integer location property to iterate or enumerate the items in the data list.
+- Discretizing is Taking a model that has already been trained with 16-bit or 32-bit floating point and then round it off.
+
+
+# Looking forward to Learning more!

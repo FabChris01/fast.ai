@@ -1,0 +1,22 @@
+Fast.ai Learning Challenge Day 16
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- some of the few ways in which online ethics are misused are:
+1) Our online environments are designed to be addictive
+2) The incentive focus on short- term metrics
+3) The fundamental business model is around manipulating people's behavior and monopolizing their time
+- Like James Grimmelman from "The Platform is the message said, "These platforms are structurally at war with themselves. The same charactersitics that make outrageous and offensive content unacceptable are what make it go viral in the first place.
+- Learnt hwo speed/hypergrowth is related to data ethics
+1) Hockey stick growth requires automation and reliance on metrics
+2) Prioritizing speed above all else doesnt leave time to reflect on ethics
+3) Problems happen at a large scale
+
+
+# Looking forward to Learning more!
