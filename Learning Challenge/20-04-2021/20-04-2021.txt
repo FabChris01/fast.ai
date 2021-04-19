@@ -1,0 +1,18 @@
+Fast.ai Learning Challenge Day 23
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- To train a lot of epochs without overfitting taking place, regularization is used
+- Regularization lets you use models with a lot of parameters and train them for a long period of time, but penalyze them effectively for overfitting or in some way cause them to stop overfitting.
+- Weight decay also known as l2 regularization is a method of forcing the training parameters to be small
+- Regularization functions such as weight decay gives us more flexibility and lets us use more non linear functions to reduce the capacity of the model
+- An embedding layer is a computational shortcut for doing a matrix multiplication by a one hot encoded matrix.
+
+
+# Looking forward to Learning more!
