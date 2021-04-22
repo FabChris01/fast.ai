@@ -1,0 +1,20 @@
+Fast.ai Learning Challenge Day 25
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- Learnt about bagging which is a way to get deep trees without overfitting
+- Also Learnt about Breiman's bagging procedure which is a very efficient technique to train random forest classfiers
+- In this procedure, the the dataset is split into several smaller subsets
+- Each subset is then used as a dataset to train a model of its own
+- Hence, a model is trained for each subset of the dataset
+- During prediction, All the models are used for predicting
+- The final prediction result is obtained by taking the average of the predictions of all the models.
+
+
+# Looking forward to Learning more!

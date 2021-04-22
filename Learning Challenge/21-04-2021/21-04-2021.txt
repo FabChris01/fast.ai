@@ -1,0 +1,21 @@
+Fast.ai Learning Challenge Day 24
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- Modern Machine learning can be distilled down to a couple of key techniques that are widely applicable. 
+- Recent studies have shown that the vast majority of datasets can be best modeled with just two methods
+1) Ensembles of decision trees, mainly for structured data
+- Some examples are random forests and gradient boosting machines
+2) Multilayered neural networks learnt with SGD (i.e., shallow and/or deep learning)
+- These are mainly for unstructured data such as, audio, vision and natural language.
+- Pytorch is more suitable for gradient based methods while scikit learn is suitable for random forest methods and such other techniques
+- feature engineering is a technique where we take a piece of data and try to create other pieces of data from it
+
+
+# Looking forward to Learning more!
