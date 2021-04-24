@@ -1,0 +1,18 @@
+Fast.ai Learning Challenge Day 26
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- The Final prediction of a random forest of the average of the presictions of the leaf node.
+- Random forests cannot extrapolate outside of th bounds of the data that they have as a training set.
+- Also learnt about the limitations of decision tree approaches, when it comes to extrapolation, and looked at ways to solve it.
+- Used deep learning for tabular analysis, and looked into ways to create ensembles of multiple types of model.
+- Using these approaches, we then found a Kaggle solution that appears to be at, or close to, the top of the leaderboard in a popular competition.
+
+
+# Looking forward to Learning more!
