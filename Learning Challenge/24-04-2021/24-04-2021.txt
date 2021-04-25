@@ -1,0 +1,19 @@
+Fast.ai Learning Challenge Day 27
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- Learnt about Natural Language Processing (NLP) in fastai.
+- Modern NLP depends heavily on self-supervised learning, and in particular the use of language models.
+- Pretrained language models are fine-tuned, in order to benefit from transfer learning. 
+- Unlike computer vision, fine-tuning in NLP can take advantage of an extra step, which is the use of self-supervised learning on the target dataset.
+- Before we can do any modeling with text data, we first have to tokenize and numericalize it. 
+- There are a number of approaches to tokenization, and which you choose will depend on your language and dataset.
+
+
+# Looking forward to Learning more!
