@@ -1,0 +1,20 @@
+Fast.ai Learning Challenge Day 28
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- NLP models use the same basic approach of entity embedding, except that for text data it's called word embedding. 
+- This method, however, is nearly identical to the former.
+- NLP models often have to handle documents of varying sizes. 
+- So, they require a somewhat different architecture, such as a recurrent neural network (RNN). 
+- An RNN is basically just a regular deep net, which has been refactored using a loop.
+- Simple RNNs suffer from exploding gradients
+- So we have to use methods such as the LSTM cell to avoid this problem.
+
+
+# Looking forward to Learning more!
