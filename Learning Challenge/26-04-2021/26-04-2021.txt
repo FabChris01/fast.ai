@@ -1,0 +1,19 @@
+Fast.ai Learning Challenge Day 29
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- For Natural Language Processing, The tokenizer used by fastai is spaCy
+- spaCy seperates the sentences into words and puntuations. It also knows not to seperate certain notations such as abbreviations and keywords.
+- It uses xxbos to indicate the beginning of a document.
+- It converts all uppercase letters to lowercase and inserts a "ccmaj" before them to indicate the conversion.
+- In Transfer learning, you take a pre trained model and remove the final layer.
+- We then train the model with our own dataset for it to replace the existing final layer with our new information.
+
+
+# Looking forward to Learning more!
