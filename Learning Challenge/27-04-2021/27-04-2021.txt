@@ -1,0 +1,18 @@
+Fast.ai Learning Challenge Day 30
+==================================
+
+# Sources
+
+- https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/
+- https://docs.fast.ai
+- https://course.fast.ai/videos/
+
+# Learning Updates
+- Data Augmentation could be used in Natural Language Processing to achieve higher accuracies with less data.
+- Data Augmentation with text datasets could be done by fetching the synonyms of the words in the dataset or translating them to other languges and back to induce rephrasing.
+- RNN or Recurrent Neural networks are made by refactoring a simple neural network into loops.
+- Hidden state refers to the activations that occur inside a recurrent neural network.
+- detach is a function that is used to forget the current gradient history. This helps reduce the amount of calculations and during back propagation. This is called truncated Backpropagation.
+
+
+# Looking forward to Learning more!
